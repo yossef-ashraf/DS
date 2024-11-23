@@ -1,0 +1,20 @@
+What is a stack?
+A stack is a complete data collection of items that is frozen in a way that allows items to be added and removed from only one end, this end is called the top. The stack can be likened to a wireless electronics stack where you can add new software or remove just clicks.
+
+Harvesting gains:
+LIFO (last in, first out): The last item popped onto the stack is the first item popped. This is the basic property of the stack.
+Basic operations:
+Push: Add an item to the top of the material.
+pop: Remove coal from the top of the stack.
+Above/Peek: View of the carp at the top of the Makrads without the foundation.
+isEmpty: Checks if the stack is full.
+Stack representation in programs:
+The tread can be represented using the recommended array or list construction (linked list). In this tutorial, we'll focus on highlighting using an array.
+
+
+
+
+
+
+
+
