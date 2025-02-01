@@ -13,7 +13,7 @@ Since the repository contains multiple files, each file likely represents a spec
 #### Step 1: Clone the Repository
 - Open your terminal and run:
   ```bash
-  git clone https://github.com/yossef-ashraf/DS.git
+  git clone https://github.com/yossef-ashraf/Data-Structures.git
   ```
 
 #### Step 2: Navigate to the Repository Folder
