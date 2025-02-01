@@ -108,7 +108,7 @@ int main() {
 ### What Each File Does:
 Here’s a brief explanation of what each file in the repository might do:
 
-1. **`linked_list.c`**:
+1. **`list.c`**:
    - Implements a singly linked list with basic operations like insertion, deletion, and traversal.
 
 2. **`stack.c`**:
