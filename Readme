@@ -123,9 +123,6 @@ Here’s a brief explanation of what each file in the repository might do:
 5. **`graph.c`**:
    - Implements a graph data structure (e.g., adjacency list or matrix) with operations like adding edges and traversing (e.g., BFS, DFS).
 
-6. **`sorting.c`**:
-   - Implements sorting algorithms like Bubble Sort, Quick Sort, Merge Sort, etc.
-
 ---
 
 ### How to Understand the Code:
